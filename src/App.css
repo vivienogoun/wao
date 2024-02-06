@@ -1,0 +1,16 @@
+#root {
+  margin: 0;
+  width: 100vw;
+}
+
+nav {
+  background-color: rgba(0, 0, 0, 0.44);
+}
+
+nav a {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 32px;
+  text-align: center;
+  color: #fefefe;
+}
